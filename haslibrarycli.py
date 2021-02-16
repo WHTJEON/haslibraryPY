@@ -480,7 +480,7 @@ def library_reservation_auto (schedule):
 def timer():
 
     if isweekend()==False:
-        target_time="23:06:00"
+        target_time="13:00:00"
     else: 
         target_time="12:00:00"
 
